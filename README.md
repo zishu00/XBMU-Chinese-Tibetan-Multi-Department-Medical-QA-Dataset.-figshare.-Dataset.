@@ -31,7 +31,7 @@
 | 外科 | 3,374 | 8.6% | 创伤、术后护理等 |
 | 营养保健科 | 9,403 | 23.9% | 饮食指导、慢病管理 |
 
-## 数据集已公开：王, 德杰; 文, 传杰; 马, 宁 (2025). XBMU Chinese–Tibetan Multi-Department Medical QA Dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30630458.v1
+## 数据集已公开：XBMU Chinese–Tibetan Multi-Department Medical QA Dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30630458.v1
 
 ### 环境要求
 ```bash
