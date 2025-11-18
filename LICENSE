@@ -1,0 +1,40 @@
+
+# LICENSE
+
+```plaintext
+MIT License
+
+Copyright (c) 2024 汉藏多科室医疗问答数据集构建项目
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+数据集使用附加条款：
+
+1. 本数据集仅可用于学术研究目的
+2. 商业使用需获得额外授权
+3. 使用本数据集时需遵守数据来源平台的使用条款
+4. 禁止将数据集用于任何可能危害患者隐私或医疗安全的应用
+
+医疗数据使用伦理声明：
+
+使用者承诺遵守医学伦理规范，确保：
+- 不将数据用于误导性医疗建议
+- 保护患者隐私权益
+- 在临床应用前进行充分的验证测试
+- 遵守相关医疗法规和标准
